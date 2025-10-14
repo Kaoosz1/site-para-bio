@@ -16,8 +16,8 @@ const initialLinks: SocialLink[] = [
   ];
 
 const song: Song = {
-  title: "Calculista 2",
-  artist: "MC Joãozinho VT",
+  title: "LET THE WORLD BURN",
+  artist: "Chris Grey",
   url: "https://file.garden/aDNsMMyYJVC98rw8/Chris%20Grey%20-%20LET%20THE%20WORLD%20BURN%20(Hoodtrap%20_%20Mylancore%20Remix)%20Lyrics%20-%20HyperTunes%20(youtube)%20(mp3cut.net).mp3"
 };
 
